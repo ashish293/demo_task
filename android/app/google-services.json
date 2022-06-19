@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900738283255",
+    "project_id": "fir-task-f0afe",
+    "storage_bucket": "fir-task-f0afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900738283255:android:77a759d93849e8af0405f2",
+        "android_client_info": {
+          "package_name": "com.demo_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900738283255-64agc6slqm7l77lps2f7sp4jee2rv0e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmoxQaaekaL5RoV-tzXFp5RUaQDMIRzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900738283255-64agc6slqm7l77lps2f7sp4jee2rv0e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
